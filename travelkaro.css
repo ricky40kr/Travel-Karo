@@ -497,8 +497,6 @@ a {
   text-overflow: ellipsis;
   white-space: nowrap;
 }
-.popupdesc1 {
-}
 .descno {
   color: rgb(128, 255, 255);
   color: rgb(128, 255, 255);
@@ -861,8 +859,7 @@ a {
   align-items: stretch;
   display: flex;
 }
-.tdimgbk1 {
-}
+
 .tda {
   color: rgb(128, 255, 255);
   background-color: transparent;
@@ -1008,7 +1005,6 @@ button {
   margin: 0;
   text-transform: none;
   overflow: visible;
-  -webkit-appearance: button;
   letter-spacing: inherit;
 }
 input {
